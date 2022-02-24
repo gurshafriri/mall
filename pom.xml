@@ -124,7 +124,7 @@
             <dependency>
                 <groupId>cn.hutool</groupId>
                 <artifactId>hutool-all</artifactId>
-                <version>${hutool.version}</version>
+                <version>5.7.20</version>
             </dependency>
             <!--Swagger-UI API文档生产工具-->
             <dependency>
